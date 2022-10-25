@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HuntingTheManticore", "HuntingTheManticore.csproj", "{083AD793-0F89-4A49-B728-DDF0FC3B5593}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{083AD793-0F89-4A49-B728-DDF0FC3B5593}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{083AD793-0F89-4A49-B728-DDF0FC3B5593}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{083AD793-0F89-4A49-B728-DDF0FC3B5593}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{083AD793-0F89-4A49-B728-DDF0FC3B5593}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5D37699B-0CB0-4743-A1F4-C815DC0AB59C}
+	EndGlobalSection
+EndGlobal
