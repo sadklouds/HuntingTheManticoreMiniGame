@@ -1,6 +1,6 @@
 # HuntingTheManticoreMiniGame
 
-A little fun mini game to practice and reinforce using methods.
+A little fun mini game to practice/reinforce using methods within C#.
 
 The aim of this game is to destroy the Manticore sjip before it reaches the city. Player One will enter a distance between 0 and 100.
 Player two will then guess when inputting the range of the cannon, after every guess the round increases and the city takes 1 damage if manticore still alive.
