@@ -11,7 +11,7 @@ Player two will then guess when inputting the range of the cannon, after every g
 * Display what damage the cannon will do this round.
 * If the round is a multiple of 3 or 5 the cannon will do 3 damage
 * If the round is a multiple of 3 & 5 then do 10 damage 
-* If normnal round cannon does 1 damage.
+* If normal round cannon does 1 damage.
 * For every round manticore is still alive the city takes damage
 * End game if city or manticore is destroyed
 
